@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: image,images,post,twitter,comments,advance,advanced,wordpress comment,advanced comment,forms,wordpress comment,post comment,avatar,free,premium,comments with avatar,admin search,backend search,admin,ajax,edit comments,captcha,comments,contact form 7 captcha,google,no captcha,nocaptcha,page, plugin,posts,recaptcha,shortcode,sidebar,spam,widget,ajax pagination,pagination,create forms,drag and drop,enable comments,disable comments,email notification,advance search,jquery validation,custom fields comments,unlimited custom fields,unlimited comment forms,shortcodes comment,custom design comments,akismet,spam protection,spam
 Requires at least: 4.0
 Tested up to: 4.7.3
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,11 @@ Comment Form Builder is a powerful and easy to use comment system for wordpress 
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 0.2 =
+
+* New : Hide Predefine Fields ( Name, Email, Website & Comment )
+* New : Change labels of predefined fields ( Name, Email, Website & Comment )
 
 = 0.1 =
 

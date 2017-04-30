@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Comment Form Builder
-Version: 0.1
+Version: 0.2
 Description: A simple plugin to add custom fields on comments.
 Author: Ravi Shakya
 License: GPL2
@@ -518,12 +518,18 @@ function cfb_admin_menu() {
 function cfb_about(){ ?>
 	
 	<div class="wpcb_about_us">
-		<h1>Comment Form Builder<span class="small">Version 0.1</span></h1>
+		<h1>Comment Form Builder<span class="small">Version 0.2</span></h1>
 
 		<h3>Tutorial : How to add custom fields</h3>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/yzzooz4EZzU" frameborder="0" allowfullscreen></iframe>
 
-		<h3>Change logs</h3>
+		<h3>Changelog</h3>
+
+		<h4>Version 0.2</h4>
+		<ul>
+			<li>New : Hide Predefine Fields ( Name, Email, Website & Comment )</li>
+			<li>New : Change labels of predefined fields ( Name, Email, Website & Comment )</li>
+		</ul>
 
 		<h4>Version 0.1</h4>
 		<ul>
